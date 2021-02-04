@@ -1,6 +1,6 @@
 $(document).ready(function(){
     $('.s_box').slick({
-        autoplay:false,
+        autoplay:true,
         autoplaySpeed:1000,
         infinite: true,
         arrows: false,
